@@ -1,6 +1,6 @@
 # FPS Aim Trainer
 
-FPS Aim Trainer was created simply because I wanted to get a game that would help me improve my performance in FPS titles without spending money in the store. Main game features are:
+FPS Aim Trainer was created simply because I wanted to get a game that would help me improve my performance in FPS titles without spending money in the store. Main game features are as follows:
 
    * Different courses testing core aspects of FPS games (aiming, flicking, tracing)
 
