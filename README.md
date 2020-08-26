@@ -1,4 +1,4 @@
-# AimTrainer
+# FPS Aim Trainer
 
 FPS Aim Trainer was created simply because I wanted to get a game that would help me improve my performance in FPS titles without spending money in the store. I
 
