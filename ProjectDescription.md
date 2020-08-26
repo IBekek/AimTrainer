@@ -1,5 +1,4 @@
 # AimTrainer
-First commit 
 
 FPS Aim Trainer was created simply because I wanted to get one, but I didn't want to buy it, and so I made my own. The game contains features, such as:
 
