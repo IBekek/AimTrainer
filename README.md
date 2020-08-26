@@ -13,3 +13,5 @@ FPS Aim Trainer was created simply because I wanted to get a game that would hel
 The only asset not made by me was the graph plotter. I've been trying to figure out how to make my own, but I kept running into difficulties and finally decided on getting a working asset.
 
 The gameplay itself is very simple, most of the time was spent learning about and implementing the systems that displayed, compared, and dealt with the scores and saves in general, depending on dates and maps. 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
